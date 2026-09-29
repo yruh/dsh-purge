@@ -1,3 +1,5 @@
+> 本分支新增「夏瑾 天琴座 V2 Beta 1.0」预设编辑器，支持酒馆 JSON 导入、条目开关与本地预览。版本 `1.1.40-xiajin.1`。[使用说明与兼容范围](docs/prompt-presets.md)
+
 <p align="center">
   <img src="docs/banner.svg" alt="dsh-purge" width="720">
 </p>
